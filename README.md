@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @simarbagga200
-## 👀 I’m interested in ... JavaScript , TypeScript , Vuejs , Nuxt.js , Firebase , UI / UX , expressjs and more.
+## 👀 I’m interested in ... JavaScript , TypeScript , @Vue , @Nuxt , Firebase , UI / UX , @express and more.
 ## Follow Me :- 
  
 - [Dribble](https://www.dribbble.com/simarbagga)
